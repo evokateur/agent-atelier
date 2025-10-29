@@ -1,0 +1,8 @@
+*.bak
+*.swp
+.DS_Store
+
+.ipynb_checkpoints
+
+.env
+.venv
